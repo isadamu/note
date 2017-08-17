@@ -2,7 +2,7 @@
 
 ---
 
-[1.Tow Sum](1_Two-sum.md)
+[1.Tow Sum](1_Two-Sum.md)
 
 [15.3Sum](15_3Sum.md)
 
