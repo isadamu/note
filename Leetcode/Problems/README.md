@@ -6,6 +6,6 @@
 
 [15.3Sum](15_3Sum.md)
 
-[16.3Sum_Cloeset](16_3Sum-cloeset.md)
+[16.3Sum_Cloeset](16_3Sum-Cloeset.md)
 
 [18.4Sum](18_4Sum.md)
